@@ -1,0 +1,24 @@
+/* CSS Document */
+
+div#topbar { 
+	width:100%;
+	height:20%;
+	
+	}
+div#body {
+	width:100%;
+	height:70%;
+	}
+div#bottombar {
+	width:100%;
+	height:10%;
+	}
+div#linkbar {
+	
+	}
+	
+body{
+	background-color:#000;
+	color:#FFFl;
+	
+	}
